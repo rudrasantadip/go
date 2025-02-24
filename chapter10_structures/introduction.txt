@@ -1,0 +1,2 @@
+Structures  in go are a way to combine multiple data types into one unit and create a single type,
+for  example we have a customer and  we want to create  a  system to validate username and password
