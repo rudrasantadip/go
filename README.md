@@ -71,7 +71,7 @@ go mod init mymodule
 
 # 📌 Additional Resources
 
-Official Go Documentation
+Visit the [Go Official Website](https://go.dev/)
 
 Go Playground
 
