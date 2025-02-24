@@ -1,8 +1,8 @@
-##Go Tutorial
+## Go Tutorial
 
 Welcome to the Go (Golang) Tutorial! This tutorial is designed for beginners who want to learn the Go programming language from scratch.
 
-#📌 Prerequisites
+# 📌 Prerequisites
 
 Before you start, make sure you have:
 
@@ -10,7 +10,7 @@ Basic programming knowledge (helpful but not required)
 
 Go installed on your system (Download Go)
 
-#📌 Installation
+# 📌 Installation
 
 Download and install Go from the official website.
 
@@ -23,7 +23,7 @@ Set up the Go workspace:
 mkdir -p ~/go/src/myproject
 cd ~/go/src/myproject
 
-#📌 Your First Go Program
+# 📌 Your First Go Program
 
 Create a file named main.go and add the following code:
 
@@ -39,7 +39,7 @@ Run the program using:
 
 go run main.go
 
-#📌 Key Topics Covered
+# 📌 Key Topics Covered
 
 Variables and Data Types
 
@@ -55,7 +55,7 @@ File Handling
 
 Error Handling
 
-#📌 Running Go Code
+# 📌 Running Go Code
 
 To compile a Go program:
 
@@ -69,7 +69,7 @@ To install dependencies:
 
 go mod init mymodule
 
-#📌 Additional Resources
+# 📌 Additional Resources
 
 Official Go Documentation
 
