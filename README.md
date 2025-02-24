@@ -73,9 +73,9 @@ go mod init mymodule
 
 Visit the [Go Official Website](https://go.dev/)
 
-Go Playground
+[Go Playground](https://go.dev/play/)
 
-Effective Go
+[Effective Go](https://go.dev/doc/effective_go)
 
 📌 License
 
